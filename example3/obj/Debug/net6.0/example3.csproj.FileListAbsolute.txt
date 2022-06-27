@@ -1,0 +1,15 @@
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/examples/bin/Debug/net6.0/example3/bin/Debug/net6.0/example3
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/examples/bin/Debug/net6.0/example3/bin/Debug/net6.0/example3.deps.json
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/examples/bin/Debug/net6.0/example3/bin/Debug/net6.0/example3.runtimeconfig.json
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/examples/bin/Debug/net6.0/example3/bin/Debug/net6.0/example3.dll
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/examples/bin/Debug/net6.0/example3/bin/Debug/net6.0/example3.pdb
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/examples/bin/Debug/net6.0/example3/obj/Debug/net6.0/example3.csproj.AssemblyReference.cache
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/examples/bin/Debug/net6.0/example3/obj/Debug/net6.0/example3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/examples/bin/Debug/net6.0/example3/obj/Debug/net6.0/example3.AssemblyInfoInputs.cache
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/examples/bin/Debug/net6.0/example3/obj/Debug/net6.0/example3.AssemblyInfo.cs
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/examples/bin/Debug/net6.0/example3/obj/Debug/net6.0/example3.csproj.CoreCompileInputs.cache
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/examples/bin/Debug/net6.0/example3/obj/Debug/net6.0/example3.dll
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/examples/bin/Debug/net6.0/example3/obj/Debug/net6.0/refint/example3.dll
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/examples/bin/Debug/net6.0/example3/obj/Debug/net6.0/example3.pdb
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/examples/bin/Debug/net6.0/example3/obj/Debug/net6.0/example3.genruntimeconfig.cache
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/examples/bin/Debug/net6.0/example3/obj/Debug/net6.0/ref/example3.dll
